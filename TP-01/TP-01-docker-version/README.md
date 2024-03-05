@@ -5,7 +5,7 @@
 
 To Install docker follow this link: (<https://docs.docker.com/get-docker/>)
 
-Docker Cheatsheet: (<https://www.docker.com/sites/default/files/d8/2019-09/docker-cheat-sheet.pdf>)
+Docker Cheatsheet: (<https://docs.docker.com/get-started/docker_cheatsheet.pdf>)
 
 Please be aware, docker containers are stateless, if you want to store the state you need to use Volume Mapping(<https://github.com/wurstmeister/kafka-docker/issues/511>)
 
