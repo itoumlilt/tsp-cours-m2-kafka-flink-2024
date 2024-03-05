@@ -7,7 +7,7 @@ This tutorial assumes you are starting fresh and have no existing Kafka or ZooKe
 ## Download Kafka
 
 ```bash
-wget https://dlcdn.apache.org/kafka/3.4.0/kafka_2.13-3.4.0.tgz
+wget https://archive.apache.org/kafka/3.4.0/kafka_2.13-3.4.0.tgz
 
 tar xzvf kafka_2.13-3.4.0.tgz
 ``` 
