@@ -234,3 +234,12 @@ create table fingerprints(
 11:26:41.089 [pool-1-thread-2] DEBUG org.flywaydb.core.FlywayExecutor -- Memory usage: 61 of 171M
 2024.03.05 11:26:41 WARN  no build tool detected in workspace '/Users/i.toumlilt/dev/github/tsp-cours-m2-kafka-flink-2024'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
 2024.03.05 11:26:41 WARN  Build server is not auto-connectable.[0m
+2024.05.28 17:30:17 INFO  Started: Metals version 1.3.1 in folders '/Users/i.toumlilt/dev/teaching/iasd-2024/tsp-cours-m2-kafka-flink-2024' for client Visual Studio Code 1.88.1.[0m
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@2b68ad2e]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@2e811d41]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@2b68ad2e]
+2024.05.28 17:30:21 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.[0m
+2024.05.28 17:30:21 WARN  no build tool detected in workspace '/Users/i.toumlilt/dev/teaching/iasd-2024/tsp-cours-m2-kafka-flink-2024'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2024.05.28 17:30:21 WARN  Build server is not auto-connectable.[0m

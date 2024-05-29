@@ -3,6 +3,8 @@
 
 ## Prerequisite: have docker up and working
 
+To run this tutorial, you will need Docker and Docker compose installed on your computer.
+
 To Install docker follow this link: (<https://docs.docker.com/get-docker/>)
 
 Docker Cheatsheet: (<https://docs.docker.com/get-started/docker_cheatsheet.pdf>)
